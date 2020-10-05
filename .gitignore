@@ -1,2 +1,5 @@
 # Project exclude paths
 /Django_venv/
+.idea/
+__pycache__/
+*.sqlite3
